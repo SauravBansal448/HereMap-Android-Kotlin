@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HereMap Demo</string>
+    <string name="anchored">Anchored</string>
+    <string name="centered">Centered</string>
+    <string name="clear">Clear</string>
+    <string name="clearMap">Clear Map</string>
+    <string name="add_route">Add Route</string>
+    <string name="add_waypoints">Add Waypoints</string>
+    <string name="search">Search</string>
+    <string name="geocoding">Geocoding</string>
+</resources>
